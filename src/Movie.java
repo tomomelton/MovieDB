@@ -48,5 +48,7 @@ public class Movie {
                 '}';
     }
 
-    static void test(){}
+    static void test(){
+        System.out.println("tom");
+    }
 }
