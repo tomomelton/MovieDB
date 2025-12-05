@@ -49,6 +49,6 @@ public class Movie {
     }
 
     static void test(){
-        System.out.println("testjhv");
+        System.out.println("tom");
     }
 }
