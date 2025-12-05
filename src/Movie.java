@@ -47,4 +47,6 @@ public class Movie {
                 ", rating='" + rating + '\'' +
                 '}';
     }
+
+    static void test(){}
 }
